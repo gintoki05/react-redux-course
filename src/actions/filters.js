@@ -1,6 +1,6 @@
 // FILTER_EXPENSE
 export const setTextFilter = (text = '') => ({
-  type: 'FILTER_EXPENSE',
+  type: 'SET_TEXT_FILTER',
   text
 });
 
